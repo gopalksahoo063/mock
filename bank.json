@@ -1,0 +1,595 @@
+{
+    "success": true,
+    "data": [
+        {
+            "card_id": 27,
+            "card_country": "India",
+            "card_card_type": "Credit",
+            "card_card_issuer": "Axis Bank",
+            "card_card_network": "Visa",
+            "card_card_name": "Axis Bank Ace ",
+            "card_url_card_issuer": "https://www.fintechfutures.com/files/2022/03/axis-bank-logo.jpg",
+            "card_url_card_network": null
+        },
+        {
+            "card_id": 28,
+            "card_country": "India",
+            "card_card_type": "Credit",
+            "card_card_issuer": "Axis Bank",
+            "card_card_network": "MasterCard",
+            "card_card_name": "Axis Bank Ace ",
+            "card_url_card_issuer": "https://www.fintechfutures.com/files/2022/03/axis-bank-logo.jpg",
+            "card_url_card_network": null
+        },
+        {
+            "card_id": 33,
+            "card_country": "India",
+            "card_card_type": "Credit",
+            "card_card_issuer": "Axis Bank",
+            "card_card_network": "Visa",
+            "card_card_name": "Axis Bank Burgundy Private",
+            "card_url_card_issuer": "https://www.fintechfutures.com/files/2022/03/axis-bank-logo.jpg",
+            "card_url_card_network": null
+        },
+        {
+            "card_id": 34,
+            "card_country": "India",
+            "card_card_type": "Credit",
+            "card_card_issuer": "Axis Bank",
+            "card_card_network": "MasterCard",
+            "card_card_name": "Axis Bank Burgundy Private",
+            "card_url_card_issuer": "https://www.fintechfutures.com/files/2022/03/axis-bank-logo.jpg",
+            "card_url_card_network": null
+        },
+        {
+            "card_id": 35,
+            "card_country": "India",
+            "card_card_type": "Credit",
+            "card_card_issuer": "Axis Bank",
+            "card_card_network": "Visa",
+            "card_card_name": "Axis Bank Burgundy Private ",
+            "card_url_card_issuer": "https://www.fintechfutures.com/files/2022/03/axis-bank-logo.jpg",
+            "card_url_card_network": null
+        },
+        {
+            "card_id": 36,
+            "card_country": "India",
+            "card_card_type": "Credit",
+            "card_card_issuer": "Axis Bank",
+            "card_card_network": "MasterCard",
+            "card_card_name": "Axis Bank Burgundy Private ",
+            "card_url_card_issuer": null,
+            "card_url_card_network": null
+        },
+        {
+            "card_id": 37,
+            "card_country": "India",
+            "card_card_type": "Credit",
+            "card_card_issuer": "Axis Bank",
+            "card_card_network": "Visa",
+            "card_card_name": "Axis Bank Business Platinum ",
+            "card_url_card_issuer": null,
+            "card_url_card_network": null
+        },
+        {
+            "card_id": 38,
+            "card_country": "India",
+            "card_card_type": "Credit",
+            "card_card_issuer": "Axis Bank",
+            "card_card_network": "MasterCard",
+            "card_card_name": "Axis Bank Business Platinum ",
+            "card_url_card_issuer": null,
+            "card_url_card_network": null
+        },
+        {
+            "card_id": 39,
+            "card_country": "India",
+            "card_card_type": "Credit",
+            "card_card_issuer": "Axis Bank",
+            "card_card_network": "Visa",
+            "card_card_name": "Axis Bank Corporate ",
+            "card_url_card_issuer": null,
+            "card_url_card_network": null
+        },
+        {
+            "card_id": 40,
+            "card_country": "India",
+            "card_card_type": "Credit",
+            "card_card_issuer": "Axis Bank",
+            "card_card_network": "MasterCard",
+            "card_card_name": "Axis Bank Corporate ",
+            "card_url_card_issuer": null,
+            "card_url_card_network": null
+        },
+        {
+            "card_id": 43,
+            "card_country": "India",
+            "card_card_type": "Credit",
+            "card_card_issuer": "Axis Bank",
+            "card_card_network": "Diners Club",
+            "card_card_name": "Axis Bank Diners ",
+            "card_url_card_issuer": null,
+            "card_url_card_network": null
+        },
+        {
+            "card_id": 44,
+            "card_country": "India",
+            "card_card_type": "Credit",
+            "card_card_issuer": "Axis Bank",
+            "card_card_network": "Visa",
+            "card_card_name": "Axis Bank Flipkart ",
+            "card_url_card_issuer": null,
+            "card_url_card_network": null
+        },
+        {
+            "card_id": 45,
+            "card_country": "India",
+            "card_card_type": "Credit",
+            "card_card_issuer": "Axis Bank",
+            "card_card_network": "MasterCard",
+            "card_card_name": "Axis Bank Flipkart ",
+            "card_url_card_issuer": null,
+            "card_url_card_network": null
+        },
+        {
+            "card_id": 46,
+            "card_country": "India",
+            "card_card_type": "Credit",
+            "card_card_issuer": "Axis Bank",
+            "card_card_network": "Visa",
+            "card_card_name": "Axis Bank Flipkart Edge ",
+            "card_url_card_issuer": null,
+            "card_url_card_network": null
+        },
+        {
+            "card_id": 47,
+            "card_country": "India",
+            "card_card_type": "Credit",
+            "card_card_issuer": "Axis Bank",
+            "card_card_network": "MasterCard",
+            "card_card_name": "Axis Bank Flipkart Edge ",
+            "card_url_card_issuer": null,
+            "card_url_card_network": null
+        },
+        {
+            "card_id": 50,
+            "card_country": "India",
+            "card_card_type": "Credit",
+            "card_card_issuer": "Axis Bank",
+            "card_card_network": "Visa",
+            "card_card_name": "Axis Bank Gold ",
+            "card_url_card_issuer": null,
+            "card_url_card_network": null
+        },
+        {
+            "card_id": 51,
+            "card_country": "India",
+            "card_card_type": "Credit",
+            "card_card_issuer": "Axis Bank",
+            "card_card_network": "MasterCard",
+            "card_card_name": "Axis Bank Gold ",
+            "card_url_card_issuer": null,
+            "card_url_card_network": null
+        },
+        {
+            "card_id": 52,
+            "card_country": "India",
+            "card_card_type": "Credit",
+            "card_card_issuer": "Axis Bank",
+            "card_card_network": "Visa",
+            "card_card_name": "Axis Bank Insta Easy ",
+            "card_url_card_issuer": null,
+            "card_url_card_network": null
+        },
+        {
+            "card_id": 53,
+            "card_country": "India",
+            "card_card_type": "Credit",
+            "card_card_issuer": "Axis Bank",
+            "card_card_network": "MasterCard",
+            "card_card_name": "Axis Bank Insta Easy ",
+            "card_url_card_issuer": null,
+            "card_url_card_network": null
+        },
+        {
+            "card_id": 54,
+            "card_country": "India",
+            "card_card_type": "Credit",
+            "card_card_issuer": "Axis Bank",
+            "card_card_network": "Visa",
+            "card_card_name": "Axis Bank Magnus ",
+            "card_url_card_issuer": null,
+            "card_url_card_network": null
+        },
+        {
+            "card_id": 55,
+            "card_country": "India",
+            "card_card_type": "Credit",
+            "card_card_issuer": "Axis Bank",
+            "card_card_network": "MasterCard",
+            "card_card_name": "Axis Bank Magnus ",
+            "card_url_card_issuer": null,
+            "card_url_card_network": null
+        },
+        {
+            "card_id": 57,
+            "card_country": "India",
+            "card_card_type": "Credit",
+            "card_card_issuer": "Axis Bank",
+            "card_card_network": "MasterCard",
+            "card_card_name": "Axis Bank MasterCard Platinum ",
+            "card_url_card_issuer": null,
+            "card_url_card_network": null
+        },
+        {
+            "card_id": 58,
+            "card_country": "India",
+            "card_card_type": "Credit",
+            "card_card_issuer": "Axis Bank",
+            "card_card_network": "Visa",
+            "card_card_name": "Axis Bank Miles & More ",
+            "card_url_card_issuer": null,
+            "card_url_card_network": null
+        },
+        {
+            "card_id": 59,
+            "card_country": "India",
+            "card_card_type": "Credit",
+            "card_card_issuer": "Axis Bank",
+            "card_card_network": "MasterCard",
+            "card_card_name": "Axis Bank Miles & More ",
+            "card_url_card_issuer": null,
+            "card_url_card_network": null
+        },
+        {
+            "card_id": 62,
+            "card_country": "India",
+            "card_card_type": "Credit",
+            "card_card_issuer": "Axis Bank",
+            "card_card_network": "Visa",
+            "card_card_name": "Axis Bank MyZone ",
+            "card_url_card_issuer": null,
+            "card_url_card_network": null
+        },
+        {
+            "card_id": 63,
+            "card_country": "India",
+            "card_card_type": "Credit",
+            "card_card_issuer": "Axis Bank",
+            "card_card_network": "MasterCard",
+            "card_card_name": "Axis Bank MyZone ",
+            "card_url_card_issuer": null,
+            "card_url_card_network": null
+        },
+        {
+            "card_id": 64,
+            "card_country": "India",
+            "card_card_type": "Credit",
+            "card_card_issuer": "Axis Bank",
+            "card_card_network": "MasterCard",
+            "card_card_name": "Axis Bank MyZone MasterCard ",
+            "card_url_card_issuer": null,
+            "card_url_card_network": null
+        },
+        {
+            "card_id": 65,
+            "card_country": "India",
+            "card_card_type": "Credit",
+            "card_card_issuer": "Axis Bank",
+            "card_card_network": "Visa",
+            "card_card_name": "Axis Bank MyZone",
+            "card_url_card_issuer": null,
+            "card_url_card_network": null
+        },
+        {
+            "card_id": 66,
+            "card_country": "India",
+            "card_card_type": "Credit",
+            "card_card_issuer": "Axis Bank",
+            "card_card_network": "Visa",
+            "card_card_name": "Axis Bank Neo ",
+            "card_url_card_issuer": null,
+            "card_url_card_network": null
+        },
+        {
+            "card_id": 67,
+            "card_country": "India",
+            "card_card_type": "Credit",
+            "card_card_issuer": "Axis Bank",
+            "card_card_network": "MasterCard",
+            "card_card_name": "Axis Bank Neo ",
+            "card_url_card_issuer": null,
+            "card_url_card_network": null
+        },
+        {
+            "card_id": 68,
+            "card_country": "India",
+            "card_card_type": "Credit",
+            "card_card_issuer": "Axis Bank",
+            "card_card_network": "Visa",
+            "card_card_name": "Axis Bank Platinum ",
+            "card_url_card_issuer": null,
+            "card_url_card_network": null
+        },
+        {
+            "card_id": 69,
+            "card_country": "India",
+            "card_card_type": "Credit",
+            "card_card_issuer": "Axis Bank",
+            "card_card_network": "MasterCard",
+            "card_card_name": "Axis Bank Platinum ",
+            "card_url_card_issuer": null,
+            "card_url_card_network": null
+        },
+        {
+            "card_id": 81,
+            "card_country": "India",
+            "card_card_type": "Credit",
+            "card_card_issuer": "Axis Bank",
+            "card_card_network": "Visa",
+            "card_card_name": "Axis Bank Privilege ",
+            "card_url_card_issuer": null,
+            "card_url_card_network": null
+        },
+        {
+            "card_id": 82,
+            "card_country": "India",
+            "card_card_type": "Credit",
+            "card_card_issuer": "Axis Bank",
+            "card_card_network": "MasterCard",
+            "card_card_name": "Axis Bank Privilege ",
+            "card_url_card_issuer": null,
+            "card_url_card_network": null
+        },
+        {
+            "card_id": 83,
+            "card_country": "India",
+            "card_card_type": "Credit",
+            "card_card_issuer": "Axis Bank",
+            "card_card_network": "Visa",
+            "card_card_name": "Axis Bank Reserve ",
+            "card_url_card_issuer": null,
+            "card_url_card_network": null
+        },
+        {
+            "card_id": 84,
+            "card_country": "India",
+            "card_card_type": "Credit",
+            "card_card_issuer": "Axis Bank",
+            "card_card_network": "MasterCard",
+            "card_card_name": "Axis Bank Reserve ",
+            "card_url_card_issuer": null,
+            "card_url_card_network": null
+        },
+        {
+            "card_id": 85,
+            "card_country": "India",
+            "card_card_type": "Credit",
+            "card_card_issuer": "Axis Bank",
+            "card_card_network": "Visa",
+            "card_card_name": "Axis Bank Rewards ",
+            "card_url_card_issuer": null,
+            "card_url_card_network": null
+        },
+        {
+            "card_id": 86,
+            "card_country": "India",
+            "card_card_type": "Credit",
+            "card_card_issuer": "Axis Bank",
+            "card_card_network": "MasterCard",
+            "card_card_name": "Axis Bank Rewards ",
+            "card_url_card_issuer": null,
+            "card_url_card_network": null
+        },
+        {
+            "card_id": 87,
+            "card_country": "India",
+            "card_card_type": "Credit",
+            "card_card_issuer": "Axis Bank",
+            "card_card_network": "Visa",
+            "card_card_name": "Axis Bank Rewards+ ",
+            "card_url_card_issuer": null,
+            "card_url_card_network": null
+        },
+        {
+            "card_id": 88,
+            "card_country": "India",
+            "card_card_type": "Credit",
+            "card_card_issuer": "Axis Bank",
+            "card_card_network": "MasterCard",
+            "card_card_name": "Axis Bank Rewards+ ",
+            "card_url_card_issuer": null,
+            "card_url_card_network": null
+        },
+        {
+            "card_id": 92,
+            "card_country": "India",
+            "card_card_type": "Credit",
+            "card_card_issuer": "Axis Bank",
+            "card_card_network": "Visa",
+            "card_card_name": "Axis Bank Select ",
+            "card_url_card_issuer": null,
+            "card_url_card_network": null
+        },
+        {
+            "card_id": 93,
+            "card_country": "India",
+            "card_card_type": "Credit",
+            "card_card_issuer": "Axis Bank",
+            "card_card_network": "MasterCard",
+            "card_card_name": "Axis Bank Select ",
+            "card_url_card_issuer": null,
+            "card_url_card_network": null
+        },
+        {
+            "card_id": 94,
+            "card_country": "India",
+            "card_card_type": "Credit",
+            "card_card_issuer": "Axis Bank",
+            "card_card_network": "Visa",
+            "card_card_name": "Axis Bank Signature",
+            "card_url_card_issuer": null,
+            "card_url_card_network": null
+        },
+        {
+            "card_id": 95,
+            "card_country": "India",
+            "card_card_type": "Credit",
+            "card_card_issuer": "Axis Bank",
+            "card_card_network": "MasterCard",
+            "card_card_name": "Axis Bank Signature",
+            "card_url_card_issuer": null,
+            "card_url_card_network": null
+        },
+        {
+            "card_id": 96,
+            "card_country": "India",
+            "card_card_type": "Credit",
+            "card_card_issuer": "Axis Bank",
+            "card_card_network": "Visa",
+            "card_card_name": "Axis Bank Signature ",
+            "card_url_card_issuer": null,
+            "card_url_card_network": null
+        },
+        {
+            "card_id": 97,
+            "card_country": "India",
+            "card_card_type": "Credit",
+            "card_card_issuer": "Axis Bank",
+            "card_card_network": "MasterCard",
+            "card_card_name": "Axis Bank Signature ",
+            "card_url_card_issuer": null,
+            "card_url_card_network": null
+        },
+        {
+            "card_id": 100,
+            "card_country": "India",
+            "card_card_type": "Credit",
+            "card_card_issuer": "Axis Bank",
+            "card_card_network": "Visa",
+            "card_card_name": "Axis Bank Titanium ",
+            "card_url_card_issuer": null,
+            "card_url_card_network": null
+        },
+        {
+            "card_id": 101,
+            "card_country": "India",
+            "card_card_type": "Credit",
+            "card_card_issuer": "Axis Bank",
+            "card_card_network": "MasterCard",
+            "card_card_name": "Axis Bank Titanium ",
+            "card_url_card_issuer": null,
+            "card_url_card_network": null
+        },
+        {
+            "card_id": 102,
+            "card_country": "India",
+            "card_card_type": "Credit",
+            "card_card_issuer": "Axis Bank",
+            "card_card_network": "MasterCard",
+            "card_card_name": "Axis Bank Titanium MasterCard ",
+            "card_url_card_issuer": null,
+            "card_url_card_network": null
+        },
+        {
+            "card_id": 103,
+            "card_country": "India",
+            "card_card_type": "Credit",
+            "card_card_issuer": "Axis Bank",
+            "card_card_network": "Visa",
+            "card_card_name": "Axis Bank Titanium Visa ",
+            "card_url_card_issuer": null,
+            "card_url_card_network": null
+        },
+        {
+            "card_id": 107,
+            "card_country": "India",
+            "card_card_type": "Credit",
+            "card_card_issuer": "Axis Bank",
+            "card_card_network": "Visa",
+            "card_card_name": "Axis Bank Visa Platinum ",
+            "card_url_card_issuer": null,
+            "card_url_card_network": null
+        },
+        {
+            "card_id": 108,
+            "card_country": "India",
+            "card_card_type": "Credit",
+            "card_card_issuer": "Axis Bank",
+            "card_card_network": "Visa",
+            "card_card_name": "Axis Bank Vistara Infinite ",
+            "card_url_card_issuer": null,
+            "card_url_card_network": null
+        },
+        {
+            "card_id": 109,
+            "card_country": "India",
+            "card_card_type": "Credit",
+            "card_card_issuer": "Axis Bank",
+            "card_card_network": "MasterCard",
+            "card_card_name": "Axis Bank Vistara Infinite ",
+            "card_url_card_issuer": null,
+            "card_url_card_network": null
+        },
+        {
+            "card_id": 110,
+            "card_country": "India",
+            "card_card_type": "Credit",
+            "card_card_issuer": "Axis Bank",
+            "card_card_network": "Visa",
+            "card_card_name": "Axis Bank Vistara Signature",
+            "card_url_card_issuer": null,
+            "card_url_card_network": null
+        },
+        {
+            "card_id": 111,
+            "card_country": "India",
+            "card_card_type": "Credit",
+            "card_card_issuer": "Axis Bank",
+            "card_card_network": "MasterCard",
+            "card_card_name": "Axis Bank Vistara Signature",
+            "card_url_card_issuer": null,
+            "card_url_card_network": null
+        },
+        {
+            "card_id": 112,
+            "card_country": "India",
+            "card_card_type": "Credit",
+            "card_card_issuer": "Axis Bank",
+            "card_card_network": "Visa",
+            "card_card_name": "Axis Bank Vistara Signature ",
+            "card_url_card_issuer": null,
+            "card_url_card_network": null
+        },
+        {
+            "card_id": 113,
+            "card_country": "India",
+            "card_card_type": "Credit",
+            "card_card_issuer": "Axis Bank",
+            "card_card_network": "MasterCard",
+            "card_card_name": "Axis Bank Vistara Signature ",
+            "card_url_card_issuer": null,
+            "card_url_card_network": null
+        },
+        {
+            "card_id": 114,
+            "card_country": "India",
+            "card_card_type": "Credit",
+            "card_card_issuer": "Axis Bank",
+            "card_card_network": "Visa",
+            "card_card_name": "Axis Bank FreeCharge Plus ",
+            "card_url_card_issuer": null,
+            "card_url_card_network": null
+        },
+        {
+            "card_id": 115,
+            "card_country": "India",
+            "card_card_type": "Credit",
+            "card_card_issuer": "Axis Bank",
+            "card_card_network": "Visa",
+            "card_card_name": "Axis Bank Shoppers Stop First Citizen ",
+            "card_url_card_issuer": null,
+            "card_url_card_network": null
+        }
+    ]
+}
